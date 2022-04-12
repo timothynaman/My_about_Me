@@ -7,7 +7,7 @@ Italian son of immigrant, I understood the importance of looking for opportuniti
 
 | End Date | Course | University | Location |
 | :---: | :---: | :---: | :---: |
-| June, 2020 | Bachelor's in Business Communications | Sapienza University of Rome  | Rome, Italy |
+| Sept, 2019 | Bachelor's in Business Communications | Sapienza University of Rome  | Rome, Italy |
 | August, 2021 | Master's in International Business | Hult International Business School | London, United Kingdom |
 | May, 2022 | Master's in Business Analytics | Hult International Business School | San Francisco, United States |
 
